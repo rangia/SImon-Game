@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 var buttonColors=["red", "blue", "green", "yellow"];
 var gamePattern=[];
 var userClickedPattern=[];
@@ -146,4 +144,4 @@ function startOver(){
   userClickedPattern=[];
   gamePattern=[];
 }
->>>>>>> 9b9e74278df29c51de0fc1a4579d993c432feb56
+
